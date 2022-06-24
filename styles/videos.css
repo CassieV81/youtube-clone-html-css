@@ -5,6 +5,10 @@
   flex-direction: column;
   gap: 10px;
 }
+.videos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
 
 .thumbnails {
   width: 200px;
